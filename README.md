@@ -8,7 +8,7 @@
 
 <p> Empezando en el mundo de la programación,
 <p> Graduado en SMR.
-<p> Edad 22 años.
+
 
 <strong style="color:green">Mis Redes </strong>
 
@@ -31,4 +31,7 @@
 <br>
 
 [![Francisco Carlos](https://github-readme-stats.vercel.app/api?username=franciscochavesbarbosa&show_icons=true&theme=dark#gh-dark-mode-only)]
+
+
+
 
