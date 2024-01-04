@@ -1,5 +1,5 @@
 ### Hola! Soy Carlos🫡​
-
+<img src="[![Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png](https://i.postimg.cc/wTQ4G5Lh/Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png)](https://postimg.cc/GH9jByM2)">
 
 Mis Redes 
 
