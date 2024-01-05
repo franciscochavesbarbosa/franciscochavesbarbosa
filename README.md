@@ -8,6 +8,8 @@
 
 <p> Empezando en el mundo de la programación,
 <p> Graduado en SMR.
+  
+Idiomas:    <img height="50" width="50" ![bandera](https://github.com/franciscochavesbarbosa/franciscochavesbarbosa/assets/114076782/ad09ff06-c6d6-47c2-941f-f25d1ee04fd5) </img>
 
 
 <strong style="color:green">Mis Redes </strong>
