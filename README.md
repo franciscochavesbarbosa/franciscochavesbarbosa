@@ -24,7 +24,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciscochavesbarbosa)&nbsp; 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbosa-chaves/)
 
-### Actuamente Aprendiendo
+### Actualmente Aprendiendo
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp; 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp; 
@@ -46,6 +46,8 @@
 <br>
 
 [![Francisco Carlos](https://github-readme-stats.vercel.app/api?username=franciscochavesbarbosa&show_icons=true&theme=dark#gh-dark-mode-only)]
+
+
 
 
 
