@@ -6,9 +6,18 @@
 [![Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png](https://i.postimg.cc/wTQ4G5Lh/Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png)](https://github.com/franciscochavesbarbosa)
 
 
-<p> Empezando en el mundo de la programación,
+<p> Empezando en el mundo de la programación
 <p> Graduado en SMR.
 
+<p>Idiomas:&nbsp; &nbsp;
+
+[![bandera.png](https://i.postimg.cc/LXgtfPzY/bandera.png)](https://postimg.cc/G8rTnHgd)
+<br>
+<br>
+
+
+[![brasil.png](https://i.postimg.cc/DZGGmTT1/brasil.png)](https://postimg.cc/bDzrF4dv)
+</p>
 
 <strong style="color:green">Mis Redes </strong>
 
@@ -22,15 +31,18 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 <br>
-<strong style="color:green">Conocimientos en</strong>:<br>
+<strong style="color:green">Aplicaciones y Herramientas</strong>:<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp; 
-<img src=" 	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> &nbsp; 
+
+
 </div>
 <br>
 <br>
 <br>
 
 [![Francisco Carlos](https://github-readme-stats.vercel.app/api?username=franciscochavesbarbosa&show_icons=true&theme=dark#gh-dark-mode-only)]
+
 
 
 
