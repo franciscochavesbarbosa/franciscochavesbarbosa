@@ -7,7 +7,6 @@
 
 
 <p> Empezando en el mundo de la programación
-<p> Graduado en SMR.
 
 <p>Idiomas:&nbsp; &nbsp;
 
